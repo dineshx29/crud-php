@@ -1,26 +1,26 @@
+have these structure :
 htdocs/
-├── api/
-│   ├── add.php
-│   ├── delete.php
-│   ├── edit.php
-│   ├── fetch.php
-│   └── update.php
-│
-├── config/
-│   ├── conn.php
-│   └── dbconfig.php
-│
-├── views/
-│   ├── index.php
-│   └── partials/
-│       └── modal.php
-│
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       ├── angular.js
-│       └── dirPaginate.js
+htdocs/api/
+htdocs/api/add.php
+htdocs/api/delete.php
+htdocs/api/edit.php
+htdocs/api/fetch.php
+htdocs/api/update.php
+htdocs/config/
+htdocs/config/conn.php
+htdocs/config/dbconfig.php
+htdocs/views/
+htdocs/views/index.php
+htdocs/views/partials/
+htdocs/views/partials/modal.php
+htdocs/assets/
+htdocs/assets/css/
+htdocs/assets/css/style.css
+htdocs/assets/js/
+htdocs/assets/js/angular.js
+htdocs/assets/js/dirPaginate.js
+
+or 
 
 or simple add all the files inn "htdocs" 
 and iunnphp admin create database "angular" perform the below code in sql 
