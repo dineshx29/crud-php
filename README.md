@@ -1,24 +1,4 @@
-have these structure :
-htdocs/
-htdocs/api/
-htdocs/api/add.php
-htdocs/api/delete.php
-htdocs/api/edit.php
-htdocs/api/fetch.php
-htdocs/api/update.php
-htdocs/config/
-htdocs/config/conn.php
-htdocs/config/dbconfig.php
-htdocs/views/
-htdocs/views/index.php
-htdocs/views/partials/
-htdocs/views/partials/modal.php
-htdocs/assets/
-htdocs/assets/css/
-htdocs/assets/css/style.css
-htdocs/assets/js/
-htdocs/assets/js/angular.js
-htdocs/assets/js/dirPaginate.js
+![image](https://github.com/user-attachments/assets/24d01495-9276-451b-bd04-03ecf90b6845)
 
 or 
 
